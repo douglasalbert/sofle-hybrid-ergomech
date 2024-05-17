@@ -93,7 +93,6 @@
 &trans     &trans        &kp TILDE     &kp GRAVE     &kp LEFT_BRACKET  &kp LEFT_BRACE  &trans    &trans  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp PLUS            &kp LBRC              &kp RBRC               &kp PIPE
                                        &trans        &trans            &trans          &trans    &trans  &trans           &trans             &kp K_CONTEXT_MENU
             >;
-        };
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
